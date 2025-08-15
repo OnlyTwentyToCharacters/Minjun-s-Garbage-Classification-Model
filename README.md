@@ -1,8 +1,8 @@
 # Minjun-s-Garbage-Classification-Model
-This garbage classification model is an AI made with Resnet34 that detects different types of garbage (trash, battery, plastic, metal, etc.).It is meant to help people find out what they can recycle and what they can’t. It is built to run on the Jetson Orin Nano but can run on many modern systems or mini computers built for AI such as the Jetson Developer Kits. 
+This garbage classification model is an AI made with Resnet34 that detects different types of garbage (trash, battery, plastic, metal, etc.).It is meant to help people find out what they can recycle and what they can’t. It is built to run on the Jetson Orin Nano but can run on many modern systems or mini computers built for AI such as the Jetson Developer Kits. You must be using linux or be using a VM that has linux for this to work. 
 
 Instructions:
-    You have to download all of the files. Then, you can run the command "python3 -m http.server" without the quotation marks. Afterwards, visit http://localhost:8000 on your browser (Google Chrome is prefered but most browsers will most likely work!) Lastly, import an image of your trash and the AI will classify it.
+    You have to download all of the files. Then, you can run the command "python3 -m http.server" without the quotation marks in your terminal. Afterwards, visit http://localhost:8000 on your browser (Google Chrome is prefered but most browsers will most likely work!) Lastly, import an image of your trash and the AI will classify it.
 
 
 Progress Report:
